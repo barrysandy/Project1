@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"animationId":16,"description":"一把个头小巧的斧头。\n属性：增加3点的攻击力。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"压制之刃","note":"","params":[0,0,3,0,0,0,0,0],"price":240,"wtypeId":1},
+{"id":2,"animationId":16,"description":"虐待狂们的可选武器之一。\n属性：增加9点的攻击力。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"攻击之爪","note":"","params":[0,0,9,0,0,0,0,0],"price":420,"wtypeId":1},
+{"id":3,"animationId":6,"description":"想做个称职的骑士的话，就该买上一把。\n属性：增加18点的攻击力。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"阔剑","note":"","params":[0,0,18,0,0,0,0,0],"price":1200,"wtypeId":1},
+{"id":4,"animationId":6,"description":"一把宝剑，既能够用来砍护甲，也可以用来切土豆。\n属性：增加21点的攻击力。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"大剑","note":"","params":[0,0,21,0,0,0,0,0],"price":1400,"wtypeId":1},
+{"id":5,"animationId":11,"description":"用来攻击的时候能够穿透敌人的铠甲。增加21点的攻击力\n能穿透目标防御，造成的伤害无视目标20%的防御力。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":12,"dataId":3,"value":0.2}],"iconIndex":107,"name":"标枪","note":"","params":[0,0,21,0,0,0,0,0],"price":1500,"wtypeId":1},
+{"id":6,"animationId":6,"description":"增加10点攻击力，提升10点敏捷和10%的命中率。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.1}],"iconIndex":108,"name":"短棍","note":"","params":[0,0,10,0,0,0,10,0],"price":1400,"wtypeId":1},
+{"id":7,"animationId":1,"description":"由纯粹的密银打造而成的锤子。\n属性：增加24点的攻击力。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":110,"name":"秘银锤","note":"","params":[0,0,24,0,0,0,0,0],"price":1600,"wtypeId":1},
+{"id":8,"animationId":7,"description":"属性：增加35点的攻击力。\n攻击有15%的几率造成2倍伤害的致命一击。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":22,"dataId":2,"value":0.15}],"iconIndex":97,"name":"水晶剑","note":"","params":[0,0,35,0,0,0,0,0],"price":2150,"wtypeId":1},
+{"id":9,"animationId":2,"description":"属性：增加40点的攻击力和120点生命值。\n攻击有20%的几率重击目标，眩晕1~2回合。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":32,"dataId":11,"value":0.2}],"iconIndex":223,"name":"碎骨锤","note":"","params":[120,0,40,0,0,0,0,0],"price":3100,"wtypeId":1},
+{"id":10,"animationId":2,"description":"属性：增加24点的攻击力和15点敏捷。\n攻击25%的几率放出能跳跃3次的连环闪电，造成120点伤害。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":223,"name":"漩涡","note":"","params":[0,0,24,0,0,0,15,0],"price":3100,"wtypeId":1},
+{"id":11,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":12,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
